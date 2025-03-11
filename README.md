@@ -1,6 +1,6 @@
 # Meus arquivos em c
 
 <div align = "center">
-## Murilo Lazarini Chiarello
+<font size = 20> Murilo Lazarini Chiarello </font>font>
 
 </div>
